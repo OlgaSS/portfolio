@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Open VPN",
+    "text": "Responsive website with a clean UI and modern layout.",
+    "link": "https://open-online-vpn.netlify.app/",
+    "preview": "./assets/images/portfolio/Frame-3.png",
+    "tags": ["Website"],
+    "stack": ["HTML", "CSS", "JS"]
+  },
+  {
+    "title": "Abstract API",
+    "text": "Redesign of a website for an API service.",
+    "link": "https://abstract-api.netlify.app/",
+    "preview": "./assets/images/portfolio/Frame-1.png",
+    "tags": ["Website"],
+    "stack": ["HTML", "CSS", "JS"]
+  },
+  {
+    "title": "Crypto Payments",
+    "text": "Business website focused on crypto payment solutions.",
+    "link": "https://cryptolly-payments.netlify.app/",
+    "preview": "./assets/images/portfolio/Frame-2.png",
+    "tags": ["Website"],
+    "stack": ["HTML", "CSS", "JS"]
+  }
+]
